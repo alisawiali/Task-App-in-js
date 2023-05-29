@@ -1,0 +1,38 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html {
+    width: 60%;
+
+}
+
+.container {
+    width: 360px;
+    margin: 0;
+}
+
+#inputFiled {
+    width: 230px;
+    height: 30px;
+    border-right: none;
+    vertical-align: middle;
+}
+
+.to-dos {
+    margin-top: 30px;
+}
+
+#addbtn {
+    width: 50px;
+    height: 36px;
+    border-left: none;
+}
+
+
+.parayph-styling {
+    margin: 0;
+    cursor: pointer;
+}
